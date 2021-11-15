@@ -1,0 +1,7 @@
+.element{
+         /*Font properties*/
+    color: rgba(255, 0, 221, 0.945);
+    font-size: 30px;
+    font-weight: bold;  
+    text-decoration: underline;
+}
